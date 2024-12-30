@@ -6,7 +6,7 @@ export default function Feature() {
       <section className='py-8 bg-neutral-100 mb-20'>
         <h2 className='text-center text-3xl font-bold md:text-5xl lg:text-left animate-fade-in-up transition-all duration-500 ease-in-out
         transform hover:translate-y-[-5px] hover:text-black text-red-600'>
-          Maheen Baig : Navigating the secrets of Techonology in Tech Chronical Blog !
+          Taha Baig : Navigating the secrets of Techonology in Tech Chronical Blog !
         </h2>
 
         <p className='text-center m-4 text-sm text-black sm:text-base md:mb-12 lg:mb-16 animate-fade-in-up delay-100'>
